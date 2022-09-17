@@ -3,4 +3,4 @@ Website template
 
 ## Link to original template
 
-https://html5up.net/forty
+https://html5up.net/editorial
